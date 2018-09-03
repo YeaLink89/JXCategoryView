@@ -276,7 +276,7 @@ QQ群： 112440151
 
 <img src="https://note.youdao.com/yws/public/resource/c6fa96a65e424afcf7f6304ddf5c283a/xmlnote/WEBRESOURCE625c5369d52b2852d33e6e7887d7b5ab/2800" width="300" height="411">
 
-喜欢就star❤️一下吧
+喜欢就star❤️一下吧.
 
 ## License
 
